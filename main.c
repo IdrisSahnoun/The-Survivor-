@@ -26,8 +26,8 @@ void UpdateEvents(Sint32 *mousex, Sint32 *mousey, char boutons[8], char key[SDLK
 			break;
 		}
 	}
-}
-
+}//htht
+int a=0;
 int main(int argc, char **argv)
 {
 	Image backg, gameBackg, floubackground,
